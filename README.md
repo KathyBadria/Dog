@@ -1,2 +1,2 @@
 # Dog
-I like pomeranians
+I like pomeranians and Yorkies
